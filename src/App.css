@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.no-data {
+  display: flex;
+  justify-content: center;
+  padding-top: 10px;
+}
